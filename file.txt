@@ -1,0 +1,5 @@
+This is a txt file.
+I made this by following instruction.
+I wrote this text to make some diff.
+
+I put this line to make another diff.
