@@ -1,0 +1,13 @@
+name: Dummy CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  always-pass:
+    runs-on: windows-latest
+    steps:
+      - name: Do nothing
+        run: echo "This always passes."
